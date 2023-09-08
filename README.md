@@ -1,8 +1,8 @@
 ## Docker Application Deployment - Roll Number- M21AIE245 
-# Steps Followed for Creation of Custom Image for Web Application.
-     1.create a web application using HTML, CSS, JavaScript 
-     2.Selected Ubuntu Base Images for our application.
-     3.Update base Image and install NGINX server.
+## Steps Followed for Creation of Custom Image for Web Application.
+     *1.create a web application using HTML, CSS, JavaScript 
+     *2.Selected Ubuntu Base Images for our application.
+     *3.Update base Image and install NGINX server.
      4.Copied the all configuration file to the required location.
      5.Copied the Web application to the NGINX Default location.
      6.Export the Port:80 for application and started the NGINX server.
