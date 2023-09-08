@@ -1,0 +1,14 @@
+version: '3'
+services:
+  dictionary:
+    container_name: english_dictionary 
+    image: dictionary-app
+    build:
+      context: .
+    ports:
+      - 8080:80
+    networks:
+      - nets
+
+networks:
+  nets:
