@@ -1,9 +1,10 @@
 ## CSL7510 Assessment-1 Docker Application Deployment.
+  This repository contains an basic web application build from scratch to search meaning of word from an english dictionary record, to be used in Assessment 1: Virtual Machine and Dockers of CSL7510.
 
 ## Authors 
 > Rajesh Kumar
 > - [M21AIE245](https://github.com/kumar-332)
- </hr>  
+ <hr>  
 
 ### Steps Followed for the Creation of Custom Image for Web Application.
 - Created a web application using [HTML](./html/index.html), [CSS](./html/static/style.css), [JavaScript](./html/static/script.js). 
